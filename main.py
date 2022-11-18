@@ -1,7 +1,7 @@
 import os
 import csv
 #output file
-election_data= os.path.join('resources', 'election_data.csv')
+election_data= os.path.join('.','resources', 'election_data.csv')
 print(os.getcwd())
 
 #Variables
